@@ -1,0 +1,4 @@
+Sysmon installation example (run as Admin):
+Sysmon64.exe -i -accepteula -h sha256 -n -l -k
+
+Recommended config: SwiftOnSecurity sysmon-config (https://github.com/SwiftOnSecurity/sysmon-config)
