@@ -51,6 +51,9 @@ By completing this project I gained hands-on experience with:
 - All screenshots in `/screenshots` are lab artifacts (no real personal data).  
 - Redact or blur any real hostnames/IPs before publishing if present.
 
+## License
+This repository is available under the **MIT License** — see `LICENSE` for details.
+
 ## Author statement
 This lab was built for hands-on practice in detection engineering and incident response. For a walkthrough or questions, contact me at freyajindal22@gmail.com.
 
